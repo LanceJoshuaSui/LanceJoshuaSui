@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LanceJoshuaSui
 - 👀 I’m interested in reading manga/novel 
-- 🌱 I’m currently learning CSS, JS and PHP
+- 🌱 I’m currently learning CSS, JS, PHP and Python
 - 📫 How to reach me: lancejoshuasui15@gmail.com
 - ⚡ Fun fact: I dont know what im doing here
 
